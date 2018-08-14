@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
+/datasets/
+*.h5
+*.hdf5
 
